@@ -1,0 +1,6 @@
+# Python packages needed for the original Jupyter exploration.
+# Versions are intentionally not pinned; a clean-environment rerun has not been verified.
+numpy
+pandas
+matplotlib
+ipykernel
