@@ -1,0 +1,5 @@
+# Libraries directly imported by the supplied exploration script.
+# Versions have not yet been pinned/verified in a fresh environment.
+numpy
+pandas
+matplotlib
